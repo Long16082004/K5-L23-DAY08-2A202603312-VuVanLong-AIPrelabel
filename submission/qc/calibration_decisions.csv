@@ -1,1 +1,5 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,img_003|img_008,loi_may,"YOLOE sinh nhiều box three_wheeler chồng nhau trên một xe (conf 0.20-0.90) do ngưỡng 0.15","mỗi xe ba bánh/xe ba gác đúng một box; xoá box chồng conf thấp","mục 4.1: một xe một box; box chồng lên xe đã có box conf cao hơn thì xoá",v1.1
+CAL-02,img_014,loi_may,"Máy gọi thúng của người gánh hàng là three_wheeler (3 box conf 0.19-0.63)","gánh hàng/đòn gánh không phải xe: không gán lớp xe, chỉ gán person","mục 2: gánh, thúng và xe đẩy tay không bánh không thuộc three_wheeler",v1.1
+CAL-03,img_005|img_018|img_024,cau_hoi_mo,"Câu hỏi 2 mục 6: khối xe máy dày gần camera, từng xe hay ignore_region?","gán từng xe nếu thấy ≥ 20% và cao ≥ 20 px; phần còn lại gom ignore_region","mục 4.1.6: mở rộng cho cả cụm gần camera, không chỉ vật ở xa",v1.1
+CAL-04,img_024|img_031|img_005|img_023|img_009|img_008|img_013|img_033|img_029,bay_lot,"Lọt 10/12 bẫy (wrong_class, missing, extra đều 0/3)","không đổi guideline: lỗi quy trình duyệt, không phải guideline mơ hồ","(không vào guideline; vào quy tắc giảm thiên kiến mục 4 REPORT)",v1.1
