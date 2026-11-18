@@ -2,10 +2,10 @@
 
 - Họ và tên: Vũ Văn Long
 - MSHV: 2A202603312
-- Lớp (L2 / L3 / khác): <<>>
+- Lớp (L2 / L3 / khác): L2B
 - Tài khoản GitHub: Long16082004
-- Repo bài nộp (URL): <<>>
-- Commit chốt bài (hash): <<>>
+- Repo bài nộp (URL): https://github.com/Long16082004/K5-L23-DAY08-2A202603312-VuVanLong-AIPrelabel
+- Commit chốt bài (hash): 699fde2 part 6 - calibration, QC, release, bao cao va quyet dinh Rework
 - Máy: Windows 11 + WSL Ubuntu, không có GPU (CPU)
 - CVAT (Docker): v2.74.1
 
